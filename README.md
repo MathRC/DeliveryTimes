@@ -27,7 +27,7 @@ Follow these steps to set up the environment and run the notebook:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/delivery-times-online-shopping.git
+   git clone https://github.com/MathRC/DeliveryTimes.git
    cd delivery-times-online-shopping
    ```
 
@@ -63,7 +63,7 @@ Follow these steps to set up the environment and run the notebook:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 
