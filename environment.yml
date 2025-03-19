@@ -1,0 +1,13 @@
+name: DeliveryTimes
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.12.9
+  - jupyter=1.1.1
+  - matplotlib=3.10.0
+  - numpy=2.2.2
+  - pandas=2.2.3
+  - seaborn=0.13.2
