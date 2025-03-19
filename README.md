@@ -1,5 +1,7 @@
 # Delivery Times – Online Shopping
 
+![Package delivery](images/Package_delivery.jpg)
+
 This repository contains a data science portfolio project analyzing the delivery times of online shopping packages. The project uses data extracted from email notifications to uncover patterns and answer the question:
 
 **When is it safest to leave home without missing a delivery?**
