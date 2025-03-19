@@ -1,6 +1,6 @@
 # Delivery Times – Online Shopping
 
-![Package delivery](images/Package_delivery.jpg)
+<img src="https://raw.githubusercontent.com/MathRC/DeliveryTimes/main/images/Package_delivery.jpg" width="500"/>
 
 This repository contains a data science portfolio project analyzing the delivery times of online shopping packages. The project uses data extracted from email notifications to uncover patterns and answer the question:
 
