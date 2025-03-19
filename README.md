@@ -17,11 +17,11 @@ This project focuses on:
 
 - **📁 images/**: Contains visualizations generated during the analysis, along with a few supporting illustrations.
 - **Delivery Times - Online Shopping.ipynb**: The main Jupyter Notebook containing the complete analysis.
-- **environment.yml**: A file to recreate the conda environment with all required packages.
-- **README.md**: This file.
 - **LICENSE.txt**: The project license.
-- **shopee_emails.txt**: Text file containing the filenames of Shopee delivery notifications.
+- **README.md**: This file.
+- **environment.yml**: A file to recreate the conda environment with all required packages.
 - **mercadolivre_emails.txt**: Text file containing the filenames of MercadoLivre delivery notifications.
+- **shopee_emails.txt**: Text file containing the filenames of Shopee delivery notifications.
 
 ## Setting Up the Environment
 
