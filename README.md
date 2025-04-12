@@ -1,4 +1,4 @@
-# Delivery Times – Online Shopping
+# E-Commerce Delivery Time Analysis
 
 <img src="https://raw.githubusercontent.com/MathRC/DeliveryTimes/main/images/Package_delivery.jpg" width="500"/>
 
